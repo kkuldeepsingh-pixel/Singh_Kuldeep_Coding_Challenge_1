@@ -1,2 +1,15 @@
 node_modules/
 dist/
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignore IDE configs
+.vscode/
+
+# Ignore OS and temp files
+*.tmp
+*.temp
+*.bak
+*.swp
